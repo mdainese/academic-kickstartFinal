@@ -63,5 +63,3 @@ links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature
 math = true
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
