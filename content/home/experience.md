@@ -45,6 +45,8 @@ date_format = "January 2006"
   location = "Würzburg"
   date_start = "2012-01-01"
   date_end = "2015-08-31"
-  description = "Department of Land, Environment, Agriculture and Forestry & Department of Agronomy, Food, Natural resources, Animals and Environment""
+  description = """
+  Department of Agronomy, Food, Natural resources, Animals and Environment /
+  Department of Land, Environment, Agriculture and Forestry"""
 
 +++
