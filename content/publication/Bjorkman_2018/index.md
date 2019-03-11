@@ -54,7 +54,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = "https://www.nature.com/articles/s41586-018-0563-7"
-url_custom =[{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39235-it-takes-a-global-village-to-write-one-paper-and-nearly-200-000-hours-of-work-to-collect-the-data"}]
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39235-it-takes-a-global-village-to-write-one-paper-and-nearly-200-000-hours-of-work-to-collect-the-data"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
