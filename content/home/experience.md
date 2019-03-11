@@ -25,13 +25,8 @@ date_format = "January 2006"
   location = "Bolzano"
   date_start = "2018-02-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
+
 
 [[experience]]
   title = "Post-doc"
@@ -40,6 +35,6 @@ date_format = "January 2006"
   location = "Würzburg"
   date_start = "2015-09-01"
   date_end = "2018-01-31"
-  description = """
+  description = ""
 
 +++
