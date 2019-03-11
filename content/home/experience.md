@@ -20,7 +20,8 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Senior Researcher"
-  company = "Eurac Research - Institute for Alpine Environment"
+  company = "Eurac Research
+  Institute for Alpine Environment"
   company_url = ""
   location = "Bolzano"
   date_start = "2018-02-01"
