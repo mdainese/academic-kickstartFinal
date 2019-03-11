@@ -21,11 +21,11 @@ date_format = "January 2006"
 [[experience]]
   title = "Senior Researcher"
   company = "Eurac Research"
-  company_url = "*Institute for Alpine Environment*"
+  company_url = ""
   location = "Bolzano"
   date_start = "2018-02-01"
   date_end = ""
-  description = ""
+  description = "Institute for Alpine Environment"
 
 
 [[experience]]
