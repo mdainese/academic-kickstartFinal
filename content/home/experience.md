@@ -36,5 +36,15 @@ date_format = "January 2006"
   date_start = "2015-09-01"
   date_end = "2018-01-31"
   description = ""
+  
+  
+[[experience]]
+  title = "Post-doc"
+  company = "University of Padova"
+  company_url = ""
+  location = "Würzburg"
+  date_start = "2012-01-01"
+  date_end = "2015-08-31"
+  description = ""
 
 +++
