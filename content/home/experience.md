@@ -35,7 +35,7 @@ date_format = "January 2006"
   location = "Würzburg"
   date_start = "2015-09-01"
   date_end = "2018-01-31"
-  description = ""
+  description = "Department of Animal Ecology and Tropical Biology"
   
   
 [[experience]]
@@ -45,6 +45,9 @@ date_format = "January 2006"
   location = "Würzburg"
   date_start = "2012-01-01"
   date_end = "2015-08-31"
-  description = ""
+  description = """
+  Department of Land, Environment, Agriculture and Forestry 
+  Department of Agronomy, Food, Natural resources, Animals and Environment
+  """
 
 +++
