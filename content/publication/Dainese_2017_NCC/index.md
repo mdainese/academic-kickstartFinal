@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Human disturbance and upward expansion of plants in a warming climate"
+date = 2017-07-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["**Dainese M**", "Aikio S", "Hulme PE", "Bertolli A", "Prosser F", "Marini L"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Nature Climate Change* 7: 577-580"
+publication_short = "*Nature Climate Change*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "Climate change is expected to trigger an upward expansion of plants in mountain regions and, although there is strong evidence that many native species have already shifted their distributions to higher elevations, little is known regarding how fast non-native species might respond to climate change. By analysing 131,394 occurrence records of 1,334 plant species collected over 20 years in the European Alps, we found that non-natives are spreading upwards approximately twice as fast as natives. Whereas the spread of natives was enhanced by traits favouring longer dispersal distances, this was not the case for non-natives. This was due to the non-native species pool already being strongly biased towards species that had traits facilitating spread. A large proportion of native and non-native species seemed to be able to spread upwards faster than the current velocity of climate change. In particular, long-distance dispersal events and proximity to roads proved to be key drivers for the observed rapid spread. Our findings highlight that invasions by non-native species into native alpine communities are a potentially significant additional pressure on these vulnerable ecosystems that are already likely to suffer dramatic vegetation changes with ongoing warming and increasing human activity in mountain regions."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMSHctMFhwQmE1NXc/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://www.nature.com/articles/nclimate3337"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+links = [{name = "New Scientist", url = "https://www.newscientist.com/article/2140136-climate-change-lets-invaders-beat-alpine-plants-in-mountain-race/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&campaign_id=RSS%7CNSNS-"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
