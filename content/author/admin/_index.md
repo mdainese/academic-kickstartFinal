@@ -81,4 +81,4 @@ user_groups = ["Researchers", "Visitors"]
 
 I'm currently a Senior Researcher at Eurac - Institute for Alpine Environment http://www.eurac.edu/en/research/mountains/alpenv
 
-My research focuses on ecology and conservation of plants and insects in terrestrial ecosystems. I am particularly interested in understanding the ecological consequences of global changes, including climate warming and land-use change, on plant and insect biodiversity. 
+My research focuses on ecology and conservation of plants and insects in terrestrial ecosystems. I am particularly interested in understanding the ecological consequences of global change, including climate warming and land-use change, on plant and insect biodiversity. 
