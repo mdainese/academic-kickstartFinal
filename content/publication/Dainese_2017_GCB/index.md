@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Landscape simplification weakens the association between terrestrial producer and consumer diversity in Europe"
+date = 2017-08-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["**Dainese M**", "Isaac NJB", "Powney GD", "Bommarco R", Öckinger E", "Kuussaari M", "Pöyry J", "Benton TG", "Gabriel D", "Hodgson JA", "Kunin WA", "Lindborg R", "Sait SM", "Marini L"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Global Change Biology* 23: 3040-3051"
+publication_short = "*Global Change Biology*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "Land‐use change is one of the primary drivers of species loss, yet little is known about its effect on other components of biodiversity that may be at risk. Here, we ask whether, and to what extent, landscape simplification, measured as the percentage of arable land in the landscape, disrupts the functional and phylogenetic association between primary producers and consumers. Across seven European regions, we inferred the potential associations (functional and phylogenetic) between host plants and butterflies in 561 seminatural grasslands. Local plant diversity showed a strong bottom‐up effect on butterfly diversity in the most complex landscapes, but this effect disappeared in simple landscapes. The functional associations between plant and butterflies are, therefore, the results of processes that act not only locally but are also dependent on the surrounding landscape context. Similarly, landscape simplification reduced the phylogenetic congruence among host plants and butterflies indicating that closely related butterflies become more generalist in the resources used. These processes occurred without any detectable change in species richness of plants or butterflies along the gradient of arable land. The structural properties of ecosystems are experiencing substantial erosion, with potentially pervasive effects on ecosystem functions and future evolutionary trajectories. Loss of interacting species might trigger cascading extinction events and reduce the stability of trophic interactions, as well as influence the longer term resilience of ecosystem functions. This underscores a growing realization that species richness is a crude and insensitive metric and that both functional and phylogenetic associations, measured across multiple trophic levels, are likely to provide additional and deeper insights into the resilience of ecosystems and the functions they provide."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMaFdXRURYck45ekk/view"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,10 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13601"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
