@@ -1,6 +1,6 @@
 +++
 title = "Growth prediction for five tree species in an Italian urban forest"
-date = 2013-07-01T00:00:00
+date = 2011-05-31T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Semenzato P", "Cattaneo D", "**Dainese M**"]
