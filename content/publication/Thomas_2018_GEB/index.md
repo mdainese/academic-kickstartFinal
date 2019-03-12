@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Traditional plant functional groups explain variation in economic but not size‐related traits across the tundra biome"
+date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["Thomas HJD", "Myers-Smith IH", "et al.", "including **Dainese M**"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Global Ecology and Biogeography* 28: 78-95"
+publication_short = "*Global Ecology and Biogeography*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "**Aim**: Plant functional groups are widely used in community ecology and earth system modelling to describe trait variation within and across plant communities. However, this approach rests on the assumption that functional groups explain a large proportion of trait variation among species. We test whether four commonly used plant functional groups represent variation in six ecologically important plant traits. Location: Tundra biome. Time period: Data collected between 1964 and 2016. Major taxa studied: 295 tundra vascular plant species. Methods: We compiled a database of six plant traits (plant height, leaf area, specific leaf area, leaf dry matter content, leaf nitrogen, seed mass) for tundra species. We examined the variation in species‐level trait expression explained by four traditional functional groups (evergreen shrubs, deciduous shrubs, graminoids, forbs), and whether variation explained was dependent upon the traits included in analysis. We further compared the explanatory power and species composition of functional groups to alternative classifications generated using post hoc clustering of species‐level traits. Results: Traditional functional groups explained significant differences in trait expression, particularly amongst traits associated with resource economics, which were consistent across sites and at the biome scale. However, functional groups explained 19% of overall trait variation and poorly represented differences in traits associated with plant size. Post hoc classification of species did not correspond well with traditional functional groups, and explained twice as much variation in species‐level trait expression. Main conclusions: Traditional functional groups only coarsely represent variation in well‐measured traits within tundra plant communities, and better explain resource economic traits than size‐related traits. We recommend caution when using functional group approaches to predict tundra vegetation change, or ecosystem functions relating to plant size, such as albedo or carbon storage. We argue that alternative classifications or direct use of specific plant traits could provide new insights for ecological prediction and modelling."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,7 +42,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
 url_pdf = ""
@@ -53,11 +53,10 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12783"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
