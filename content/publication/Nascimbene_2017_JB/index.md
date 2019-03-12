@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Assembly patterns of soil‐dwelling lichens after glacier retreat in the European Alps"
+date = 2017-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["Nascimbene J", "Mayrhofer H", "**Dainese M**", "Bilovitz PO"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Journal of Biogeography* 44: 1393-1404"
+publication_short = "*Journal of Biogeography*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "**Aim:** To assess the spatial‐temporal dynamics of primary succession following deglaciation in soil‐dwelling lichen communities. **Location:** European Alps (Austria, Switzerland and Italy). **Methods:** Five glacier forelands subjected to relevant glacier retreat during the last century were investigated. In each glacier foreland, three successional stages were selected at increasing distance from the glacier, corresponding to a gradient of time since deglaciation between 25 and 160 years. In each successional stage, soil‐dwelling lichens were surveyed within five 1 × 1 m plots. In addition to a classical ecological framework, based on species richness and composition, we applied a functional approach to better elucidate community assembly mechanisms. **Results:** A positive relationship was found between species richness and time since deglaciation indicating that richer lichen communities can be found at increasing terrain ageing. This pattern was associated with compositional shifts, suggesting that different community assemblages can be found along the successional stages. The analysis of β‐diversity revealed a significant nested pattern of species assemblages along the gradient (i.e. earlier successional stages hosted a subset of the species already established in older successional stages), while the turnover component was less relevant. Considering functional groups, we found contrasting patterns in relation to time since deglaciation: the incidence of species with a cyanobacterial photobiont and those reproducing by spores decreased, while that of species reproducing by vegetative propagules increased. **Main conclusions:** This study reveals that community assembly patterns of soil‐dwelling lichens in alpine glacier forelands are ruled by mechanisms of directional species accumulation and trait selection that involve a trade‐off between different functional strategies. Functional traits that reflect the dispersal and adaptation capability of the species underpin the colonization success of soil‐dwelling lichens in glacier forelands."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/16QgGaYmib9vmOHMhOyiQpm_4lktHv2gv/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.12970"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
