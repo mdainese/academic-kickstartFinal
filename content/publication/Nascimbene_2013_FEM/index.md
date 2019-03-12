@@ -1,6 +1,6 @@
 +++
 title = "Contrasting responses of epiphytic and dead wood-dwelling lichen diversity to forest management abandonment in silver fir mature woodlands"
-date = 2013-07-01T00:00:00
+date = 2013-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Nascimbene J", "**Dainese M**", "Sitzia T"]
