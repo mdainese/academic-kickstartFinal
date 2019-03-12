@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Different effects of elevation, habitat fragmentation and grazing management on the functional, phylogenetic and taxonomic structure of mountain grasslands"
+date = 2015-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["**Dainese M**", "Lepš J", "de Bello F"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Perspectives in Plant Ecology, Evolution and Systematics* 17: 44-53"
+publication_short = "*Perspectives in Plant Ecology, Evolution and Systematics*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "Ecological theory suggests that several nested environmental filters, acting at different spatial scales, shape the assemblages of local plant species. However, it is unclear whether different biodiversity components, that is, taxonomy, function and phylogenetic, respond similarly to these filters. The integration of these different components into coherent and comprehensive analytical frameworks also remains unclear. In this study, we developed an approach to test the relative effects of elevation, habitat fragmentation and grazing management on the functional, phylogenetic, and taxonomic structures of mountain pastures. Thirty summer farms, distributed along an elevational gradient were surveyed in the Italian Alps. Within these farms (around 100 ha), we identified all areas as one of two types of management (intensive or extensive), and we sampled three plots for each area, a total of 180 plots. Using the same mathematical framework, we quantified the functional (FD), phylogenetic (PD) and taxonomic (TD) diversity of each plot. We tested the influences of three environmental filters (elevation, habitat fragmentation and grazing management), using a series of partial regression analyses within a univariate and multivariate framework, as well as specific permutation schemes that accounted for our nested design. We found that elevation, habitat fragmentation, and grazing management affected the community structure, but in different ways. This finding confirmed that these filters operate at different scales and, despite some similarities, have different effects on various biodiversity components. Interestingly, FD was the only component that responded to all three types of predictors. Regarding functional aspects, elevation, as a broad-scale environmental gradient, showed a greater influence on dominant trait values, whereas at finer scales, grazing management had a primary effect on both dominant trait values and diversity measures. Habitat fragmentation showed a primary influence on TD, probably because the effect on dispersal limitations concerned mostly species availability. The hierarchical, multi-faceted approach adopted in this study yielded insights into the factors influencing biodiversity and community assembly processes in mountain pastures, thereby highlighting the importance of considering multiple facets of diversity in assessing the role of environmental filtering in vegetation structure."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMTHYzLTZYMmk5YVU/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://www.sciencedirect.com/science/article/pii/S1433831914000705#!"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
