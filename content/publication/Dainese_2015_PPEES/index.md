@@ -45,7 +45,7 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMTHYzLTZYMmk5YVU/view?usp=sharing"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
