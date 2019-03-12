@@ -45,7 +45,7 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMSHctMFhwQmE1NXc/view?usp=sharing"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -57,7 +57,7 @@ url_source = "https://www.nature.com/articles/nclimate3337"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "New Scientist", url = "https://www.newscientist.com/article/2140136-climate-change-lets-invaders-beat-alpine-plants-in-mountain-race/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&campaign_id=RSS%7CNSNS-"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
