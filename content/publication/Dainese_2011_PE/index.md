@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Impact of land use intensity and temperature on the reproductive performance of *Dactylis glomerata* populations in the southeastern Alps"
+date = 2011-02-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["**Dainese M**"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Plant Ecology* 212: 651-661"
+publication_short = "*Plant Ecology*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "An understanding of the processes and environmental conditions governing spatial variation in reproductive performance of plants can provide important information about the factors characterizing plant community structure and influencing fitness in natural plant populations, especially in the context of climate and land use change. In this study, 60 mountain populations of Dactylis glomerata distributed along a fertilization regime in varying grassland hay meadows were evaluated. Variations in field management, climate, soil fertility, vegetation structure, population density and species richness on reproductive performance were examined. The results indicated that field management and soil nutrient availability are the main variables influencing population density and reproductive output of D. glomerata. Moreover, the results show the effect of temperature on seed mass and resource investment in reproduction. Climate and soil change suggest a morphological differentiation of reproductive traits: (i) individuals grown on sites with higher soil nutrient availability or nutrient supply have larger inflorescences with a greater number and heavier seeds; (ii) individuals grown on warmer sites have heavier seeds. We conclude that if the climate warms and increases land use intensification in hay meadows in the Alps, this will have a pronounced positive impact on the reproductive performance of D. glomerata. Moreover, it can be hypothesized that the migration potential of D. glomerata towards higher altitudes may be likely in the near future in response to accelerated climate change."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -30,7 +30,7 @@ summary = ""
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMV3JROE1sOEZUVGc/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://link.springer.com/article/10.1007/s11258-011-9902-6"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
