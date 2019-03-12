@@ -17,8 +17,8 @@ authors = ["Holzschuh A", "**Dainese M**", "González-Varo JP", "Mudri-Stojnić 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Ecology Letters * 19: 1228-1236"
-publication_short = "*Ecology Letters *"
+publication = "*Ecology Letters* 19: 1228-1236"
+publication_short = "*Ecology Letters*"
 
 # Abstract.
 abstract = "Mass‐flowering crops (MFCs) are increasingly cultivated and might influence pollinator communities in MFC fields and nearby semi‐natural habitats (SNHs). Across six European regions and 2 years, we assessed how landscape‐scale cover of MFCs affected pollinator densities in 408 MFC fields and adjacent SNHs. In MFC fields, densities of bumblebees, solitary bees, managed honeybees and hoverflies were negatively related to the cover of MFCs in the landscape. In SNHs, densities of bumblebees declined with increasing cover of MFCs but densities of honeybees increased. The densities of all pollinators were generally unrelated to the cover of SNHs in the landscape. Although MFC fields apparently attracted pollinators from SNHs, in landscapes with large areas of MFCs they became diluted. The resulting lower densities might negatively affect yields of pollinator‐dependent crops and the reproductive success of wild plants. An expansion of MFCs needs to be accompanied by pollinator‐supporting practices in agricultural landscapes."
