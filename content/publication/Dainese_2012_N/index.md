@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Does residence time affect responses of alien species richness to environmental and spatial processes?"
+date = 2012-08-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["**Dainese M**", "Poldini L"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*NeoBiota* 14: 47-66"
+publication_short = "*NeoBiota*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "One of the most robust emerging generalisations in invasion biology is that the probability of invasion increases with the time since introduction (residence time). We analysed the spatial distribution of alien vascular plant species in a region of north-eastern Italy to understand the influence of residence time on patterns of alien species richness. Neophytes were grouped according to three periods of arrival in the study region (1500–1800, 1800–1900, and > 1900). We applied multiple regression (spatial and non-spatial) with hierarchical partitioning to determine the influence of climate and human pressure on species richness within the groups. We also applied variation partitioning to evaluate the relative importance of environmental and spatial processes. Temperature mainly influenced groups with species having a longer residence time, while human pressure influenced the more recently introduced species, although its influence remained significant in all groups.Partial regression analyses showed that most of the variation explained by the models is attributable to spatially structured environmental variation, while environment and space had small independent effects. However, effects independent of environment decreased, and spatially independent effects increased, from older to the more recent neophytes. Our data illustrate that the distribution of alien species richness for species that arrived recently is related to propagule pressure, availability of novel niches created by human activity, and neutral-based (dispersal limitation) processes, while climate filtering plays a key role in the distribution of species that arrived earlier. This study highlights the importance of residence time, spatial structure, and environmental conditions in the patterns of alien species richness and for a better understanding of its geographical variation."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -30,7 +30,7 @@ summary = ""
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMM05PTVF5MGx4VE0/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://neobiota.pensoft.net/article/1230/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
