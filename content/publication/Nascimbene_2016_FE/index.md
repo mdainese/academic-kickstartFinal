@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Fine-scale population dynamics help to elucidate community assembly patterns of epiphytic lichens in alpine forests"
+date = 2016-12-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["Nascimbene J", "Ackermann S", "**Dainese M**", "Garbarino M", "Carrer M"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Fungal Ecology* 24: 21-26"
+publication_short = "*Fungal Ecology*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "We examined the main and interactive effects of factors related to habitat filtering, dispersal dynamics, and biotic interactions, on tree-level population dynamics of a subset of species composing the epiphytic lichen pool in an alpine forest. We tested these processes evaluating the population size of 14 lichen species on six hundred and sixty-five trees within a 2 ha plot located in a high elevation alpine forest of the eastern Italian Alps. Our results indicate that community assembly patterns at the tree-level are underpinned by the simultaneous effects of habitat filtering, dispersal, and biotic interactions on the fine-scale population dynamics. These processes determine how the single species are sorted into community assemblages, contributing to tree-level community diversity and composition patterns. This corroborates the view that the response of lichen communities to environmental gradients, in terms of compositional and diversity shifts, may reflect differential species responses to different drivers."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMQ0Y4dDJPNmUwYnM/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://www.sciencedirect.com/science/article/pii/S1754504816300873"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
