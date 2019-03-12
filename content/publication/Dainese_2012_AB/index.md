@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Plant traits across different habitats of the Italian Alps: a comparative analysis between native and alien species"
+date = 2012-03-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["**Dainese M**", "Bragazza L"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Alpine Botany* 122: 11-21"
+publication_short = "*Alpine Botany*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "While it is well known that the success of alien plants in new environments greatly depends on their functional traits, to date only a few other studies have tested whether coexisting alien and native species show converging or diverging functional attributes. To our knowledge, no comparative analysis between native and alien species has been carried out in the same mountain habitats. We characterized the main habitats of the Italian Alps on the basis of plant species traits and we then tested for evidence of functional axes of variation among the habitats for native and alien plants. Finally, we tested the ‘try-harder’ and the ‘join-the-locals’ hypotheses to understand whether coexisting native and alien plant species showed converging or diverging functional attributes. Ordination analysis showed a distribution of the habitats according to the Grime’s CSR strategies, and associated to plant growth form and resource acquisition. Co-inertia analysis showed a significant association between native and alien plant traits at habitat level (RV = 0.73; Monte-Carlo test, p = 0.035). Across all species and habitats, the comparative analysis of individual traits showed that alien species have 25% higher plant height, 250% higher leaf mass, 19% lower leaf dry matter content, 10% higher SLA, and 17% longer flowering duration than native species. Overall, our findings demonstrated that aliens differ in many traits from native species in the Italian Alps, but that many of these differences disappear when one compares aliens and natives that co-occur in the same types of habitats."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -30,7 +30,7 @@ summary = ""
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMR3ZmQXBsNF9EQk0/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://link.springer.com/article/10.1007/s00035-012-0101-4"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
