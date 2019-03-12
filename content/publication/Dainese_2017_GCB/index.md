@@ -57,7 +57,7 @@ url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13601"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "F1000 Prime", url = "https://f1000.com/prime/727123076?bd=1"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
