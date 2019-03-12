@@ -1,5 +1,5 @@
 +++
-title = "Impact of land use intensity and temperature on the reproductive performance of *Dactylis glomerata* populations in the southeastern Alps"
+title = "Impact of land use intensity and temperature on the reproductive performance of Dactylis glomerata populations in the southeastern Alps"
 date = 2011-02-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
