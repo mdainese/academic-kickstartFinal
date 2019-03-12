@@ -45,7 +45,7 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = "https://link.springer.com/article/10.1007/s10530-013-0540-x"
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMMXZ4Mm5GbzRNUVE/view"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
