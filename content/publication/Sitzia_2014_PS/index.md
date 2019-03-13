@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Topsoil organic matter properties in contrasted hedgerow vegetation types"
+date = 2014-10-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["Sitzia T", "Pizzeghello D", "**Dainese M**", "Ertani A", "Carletti P", "Semenzato P", "Nardi S", "Cattaneo D"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*Plant and Soil* 2383: 337-348"
+publication_short = "*Plant and Soil*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "**Background and aims:** Hedges, semi-natural landscape components, have the ability to integrate both agronomic and environmental functions and to provide several ecosystem services. The aim of this study was to test whether hedgerow vegetation is a determinant of soil organic matter properties in ancient agricultural lands. **Methods:** We complemented cluster analysis and ordination to determine the extent to which two types of hedges that were distinct in character-plant species also differed between each other in concentration and composition of two major constituents of soil organic matter, namely humic substances and dissolved organic matter. **Results:** The two types of hedges were associated with significant differences in humic carbon content, hormone-like activity and molecular size of humic substances, which, in general, were more similar to those typical of forest than of agricultural soils. Moreover, we detected between-group differences in several phenolic acids. **Conclusions:** Variation of the topsoil biochemical properties of hedges may be explained by variation in their vegetation characteristics, similar to other ecosystems. Spontaneous vegetation in hedges perform an important role in controlling the variability of surface soil properties that influence the evolution of soil organic matter and nutrient availability in agricultural lands."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMVzUwaGdNTFlvRmc/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "https://link.springer.com/article/10.1007/s11104-014-2177-7"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
