@@ -1,9 +1,9 @@
 +++
-title = "Global trait–environment relationships of plant communities"
-date = 2013-07-01T00:00:00
+title = "Contrasting multi-taxa diversity patterns between abandoned and non-intensively managed forests in the southern Dolomites"
+date = 2017-10-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
+authors = ["Sitzia T", "Campagnaro T", "**Dainese M**", "Cassol M", "Dal Cortivo M", "Gatti E", "Padovan F", "Sommacal M", "Nascimbene J"]
 
 # Publication type.
 # Legend:
@@ -17,11 +17,11 @@ authors = ["Bruelheide H", "et al.", "including **Dainese M**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Ecology and Evolution* 2: 1906-1917"
-publication_short = "*Nature Ecology and Evolution*"
+publication = "*iForest* 10: 845-850"
+publication_short = "*iForest*"
 
 # Abstract.
-abstract = "Plant functional traits directly affect ecosystem functions. At the species level, trait combinations depend on trade-offs representing different ecological strategies, but at the community level trait combinations are expected to be decoupled from these trade-offs because different strategies can facilitate co-existence within communities. A key remaining question is to what extent community-level trait composition is globally filtered and how well it is related to global vs. local environmental drivers. Here, we perform a global, plot-level analysis of trait-environment relationships, using a database with more than 1.1 million vegetation plots and 26,632 plant species with trait information. Although we found a strong filtering of 17 functional traits, similar climate and soil conditions support communities differing greatly in mean trait values. The two main community trait axes which capture half of the global trait variation (plant stature and resource acquisitiveness) reflect the trade-offs at the species level but are weakly associated with climate and soil conditions at the global scale. Similarly, within-plot trait variation does not vary systematically with macro-environment. Our results indicate that, at fine spatial grain, macro-environmental drivers are much less important for functional trait composition than has been assumed from floristic analyses restricted to co-occurrence in large grid cells. Instead, trait combinations seem to be predominantly filtered by local-scale factors such as disturbance, fine-scale soil conditions, niche partitioning or biotic interactions."
+abstract = "The abandonment of silvicultural activities can lead to changes in species richness and composition of biological communities, when compared to those found in managed forests. The aim of this study was to compare the multi-taxonomical diversity of two mature silver fir-beech-spruce forests in the southern Dolomites (Italy), corresponding to the European Union habitat type 9130. The two sites share similar ecological and structural characteristics, but differ in their recent management histories. In the last 50 years, one site underwent non-intensive management, while the other was left unmanaged and was included in a forest reserve. The species richness and composition of eight taxa were surveyed in the two sites between 2009 and 2011. The difference in mean species richness between the two forest management types was tested through permutation tests, while differences in species composition were tested by principal coordinates analysis and the permutational multivariate analysis of variance. Mean species richness of soil macrofungi, deadwood lichens, bark beetles, and longhorn beetles were significantly higher in the abandoned than in the non-intensively managed forests. Deadwood fungi and epiphytic lichens did not differ in mean species richness between the two study sites, while mean species richness of ground beetles and birds were higher in the non-intensively managed than in the abandoned forest. Significant differences in species composition between the two sites were found for all the taxa, except for longhorn beetles. These results indicate that improving forest landscape heterogeneity through the creation of a mosaic of abandoned and extensively managed forests should better fulfill the requirements of ecologically different taxa."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -42,10 +42,10 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMS3AzUlNnZFByX2c/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -53,11 +53,11 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.nature.com/articles/s41559-018-0699-8"
+url_source = "http://www.sisef.it/iforest/abstract/?id=ifor2181-010"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Behind the paper", url = "https://natureecoevocommunity.nature.com/channels/521-behind-the-paper/posts/39602-could-we-reduce-the-functional-diversity-of-plant-communities-to-a-few-schemes"}]
+
 
 # Does this page contain LaTeX math? (true/false)
 math = true
