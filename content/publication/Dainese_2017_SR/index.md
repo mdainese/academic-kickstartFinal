@@ -42,7 +42,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["agroecology"]
 
 # Links (optional).
 url_pdf = "https://drive.google.com/file/d/0B1cR3ALnf_PMQ0Z4SzFTUTIzcHM/view?usp=sharing"
