@@ -10,7 +10,7 @@
   
 [[main]]
   name = "CV"
-  url = "#about"
+  url = "#experience"
   weight = 20
 
 [[main]]
