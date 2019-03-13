@@ -117,7 +117,7 @@ reading_time = true
 comment_count = true
 
 # Display next/previous section pager? (true/false)
-section_pager = true
+section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -129,7 +129,7 @@ sharing = true
   date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  citation_style = "mla"
 
 # Configuration of project pages.
 [projects]
